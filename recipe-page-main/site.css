@@ -1,0 +1,127 @@
+@font-face {
+    font-family: 'Young Serif';
+    src: url('assets/fonts/young-serif/YoungSerif-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Outfit';
+    src: url('assets/fonts/outfit/Outfit-VariableFont_wght.ttf') format('truetype');
+}    
+
+html {
+    font-size: 16px;
+    font-family: 'Outfit', sans-serif;
+    color: hsl(30, 10%, 34%);
+    background-color: hsl(30, 54%, 90%);
+    /* max-width: 1440px; */
+}
+
+body {
+    /* width: 50%;
+    height: 90%; */
+    margin: auto;
+    margin-top: 2rem;
+}
+
+
+main {
+    width: 50%;
+    height: 90%;
+    margin: auto;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px;
+    padding: 1.5rem;
+    margin-top: 2rem;
+    line-height: 2rem;
+}
+
+h1, h2 {
+    font-family: 'Young Serif', serif;
+    font-weight: 400;
+}
+
+h2 {
+    color: hsl(14, 45%, 36%);
+}
+
+ul > li, ol > li {
+    list-style-position: outside;
+    padding-left: 1rem;
+}
+
+ul > li::marker, ol > li::marker {
+    color: hsl(14, 45%, 36%);
+    font-weight: 600;
+}
+
+.hero-banner {
+    border-radius: 15px;
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.hero-banner img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.prep-overview {
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 15px;
+    padding: 1rem;
+}
+
+.prep-overview p, .prep-overview ul > li::marker  {
+    color: hsl(332, 51%, 32%);
+    font-weight: 700;
+}
+
+.prep-overview p {
+    margin-top: 0;
+    font-size: 20px;
+}
+
+hr {
+    color: hsl(30, 18%, 87%);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+tr {
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+}
+
+tr:last-child {
+    border-bottom: none;
+}
+
+td {
+    padding: .5rem;
+}
+
+td:nth-child(even) {
+    color: hsl(14, 45%, 36%);
+    font-weight: 600;
+}
+
+footer {
+    width: 100%;
+    font-size: 11px;
+    text-align: center;
+    /* position: fixed;
+    bottom: 0; */
+}
+
+footer a {
+    color: hsl(228, 45%, 44%);
+}
+
+
+
