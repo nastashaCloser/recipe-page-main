@@ -17,7 +17,7 @@ The challenge was to build out the recipe page and get it looking as close to th
 
 ### Screenshot
 
-- Desktop (./screenshots/recipe_page_desktop.png)
+- !(screenshots\recipe_page_desktop.png?raw=true "Desktop Preview")
 - Desktop continued (./screenshots/recipe_page_desktop_1.png)
 - Mobile (./screenshots/recipe_page_mobile.png)
 - Mobile continued (./screenshots/recipe_page_mobile_1.png)
@@ -45,4 +45,4 @@ This project allowed me to use more semantic HTML5 which I should practice with 
 
 ## Author
 
-- Frontend Mentor - [@nastashaCloser](https://www.frontendmentor.io/profile/@nastashaCloser)
+- Frontend Mentor - [@DunbarNatasha](https://www.frontendmentor.io/profile/@DunbarNatasha)
