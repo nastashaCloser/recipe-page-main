@@ -24,8 +24,8 @@ The challenge was to build out the recipe page and get it looking as close to th
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mobile-first-solution-using-html-and-css-ywKn1dMy6D)
+- Live Site URL: [Add live site URL here](https://nastashacloser.github.io/recipe-page-main/)
 
 ### Built with
 
