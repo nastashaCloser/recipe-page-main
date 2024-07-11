@@ -17,10 +17,8 @@ The challenge was to build out the recipe page and get it looking as close to th
 
 ### Screenshot
 
-- !(/screenshots/recipe_page_desktop.png?raw=true "Desktop Preview")
-- Desktop continued (./screenshots/recipe_page_desktop_1.png)
-- Mobile (./screenshots/recipe_page_mobile.png)
-- Mobile continued (./screenshots/recipe_page_mobile_1.png)
+- ![DesktopView](screenshots/recipe_page_desktop.png)
+- ![MobileView](screenshots/recipe_page_mobile.png)
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
