@@ -45,4 +45,4 @@ This project allowed me to use more semantic HTML5 which I should practice with 
 
 ## Author
 
-- Frontend Mentor - [@nastashaCloser](https://www.frontendmentor.io/profile/@nastashaCloser)
+- Frontend Mentor - [@DunbarNatasha](https://www.frontendmentor.io/profile/@DunbarNatasha)
